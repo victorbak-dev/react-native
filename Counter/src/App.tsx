@@ -10,7 +10,7 @@ const Container = Styled.View`
 const App = () => {
   return (
     <Container>
-      <Counter title="This is a Counter App" initValue={5} />
+      <Counter title="-= Counter =-" initValue={5} />
     </Container>
   );
 };
